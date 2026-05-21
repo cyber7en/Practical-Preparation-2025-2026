@@ -1,62 +1,74 @@
-<<<<<<< HEAD
+# 🚀 Practical Preparation 2025–2026
 
-# Practical Preparation 2025–2026
-
-A modern full-stack web application built with React, Vite, and modern frontend technologies for practical preparation and user management.
+A modern full-stack web application built with React and Vite, designed to provide an efficient and interactive environment for practical preparation, user management, and frontend development practice.
 
 ---
 
-## 📌 Project Overview
+## 📖 Overview
 
-This project is designed to provide an interactive and efficient platform for managing users and improving practical preparation workflows.
-It includes a responsive frontend interface, reusable React components, and scalable project architecture.
+Practical Preparation 2025–2026 is a scalable and responsive web application focused on improving practical workflows and demonstrating modern frontend development practices.
+
+The project uses reusable React components, clean UI structure, and a maintainable codebase architecture suitable for learning, portfolio presentation, and future expansion into a complete production-ready platform.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- Modern React + Vite setup
-- Responsive user interface
-- Add and manage users
-- Component-based architecture
-- Fast development and build performance
-- Clean and maintainable codebase
-- ESLint integration for code quality
+- ⚡ Fast React + Vite development environment
+- 🎨 Responsive and modern UI
+- 👤 User management functionality
+- ➕ Add new users dynamically
+- 📋 View users interface
+- 🧩 Reusable React components
+- 📱 Mobile-friendly layout
+- 🛠️ ESLint integration for clean code
+- 📂 Organized project structure
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 - React.js
 - Vite
 - JavaScript (ES6+)
 - CSS3
 
-### Tools & Utilities
-
-- Git & GitHub
-- ESLint
+### Development Tools
+- Git
+- GitHub
 - npm
+- ESLint
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-Frontend/
+Practical-Preparation-2025-2026/
 │
-├── public/
-├── src/
-│   ├── Components/
-│   ├── assets/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+├── Frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── Components/
+│   │   │   ├── adduser.jsx
+│   │   │   ├── home.jsx
+│   │   │   ├── navbar.jsx
+│   │   │   └── viewusers.jsx
+│   │   │
+│   │   ├── assets/
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   ├── App.css
+│   │   └── index.css
+│   │
+│   ├── package.json
+│   ├── vite.config.js
+│   └── README.md
 │
-├── package.json
-├── vite.config.js
+├── screenshots/
+│   └── home.png
+│
 └── README.md
 ```
 
@@ -64,25 +76,31 @@ Frontend/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/cyber7en/Practical-Preparation-2025-2026.git
 ```
 
-### 2️⃣ Navigate into the project directory
+---
+
+### 2️⃣ Navigate Into the Project
 
 ```bash
 cd Practical-Preparation-2025-2026
 ```
 
-### 3️⃣ Install dependencies
+---
+
+### 3️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 4️⃣ Start the development server
+---
+
+### 4️⃣ Start Development Server
 
 ```bash
 npm run dev
@@ -90,22 +108,23 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Preview
 
-```markdown
+### 🏠 Home Page
+
 ![Home Page](./screenshots/home.png)
-```
 
 ---
 
-## 📈 Future Improvements
+## 🚀 Future Improvements
 
-- Backend API integration
-- Authentication system
-- Database support
-- Dashboard analytics
-- Dark mode
-- Deployment support
+- 🔐 Authentication system
+- 🗄️ Backend API integration
+- ☁️ Database support
+- 📊 Admin dashboard
+- 🌙 Dark mode support
+- 📡 REST API integration
+- 🚀 Deployment optimization
 
 ---
 
@@ -115,26 +134,25 @@ Contributions are welcome.
 
 To contribute:
 
-1. Fork the repository
-2. Create a new branch
+### Create a New Branch
 
 ```bash
 git checkout -b feature-name
 ```
 
-3. Commit your changes
+### Commit Your Changes
 
 ```bash
 git commit -m "Add new feature"
 ```
 
-4. Push to your branch
+### Push to GitHub
 
 ```bash
 git push origin feature-name
 ```
 
-5. Open a Pull Request
+### Open a Pull Request
 
 ---
 
@@ -146,7 +164,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+### Cyber7en
 
 - GitHub: https://github.com/cyber7en
 
@@ -154,17 +172,4 @@ This project is licensed under the MIT License.
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a star on GitHub.
-======================================================================
-
-# Practical-Preparation-2025-2026
-
-This is preparation on national examination pratical for NESA that project it about CRUD operations
-
->>>>>>> (Add README screenshots)
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
+If you found this project useful, consider giving it a ⭐ on GitHub.
