@@ -92,10 +92,6 @@ npm run dev
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
-
-Example:
-
 ```markdown
 ![Home Page](./screenshots/home.png)
 ```
