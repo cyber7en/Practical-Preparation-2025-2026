@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Practical Preparation 2025–2026
 
 A modern full-stack web application built with React, Vite, and modern frontend technologies for practical preparation and user management.
@@ -6,7 +8,7 @@ A modern full-stack web application built with React, Vite, and modern frontend 
 
 ## 📌 Project Overview
 
-This project is designed to provide an interactive and efficient platform for managing users and improving practical preparation workflows.  
+This project is designed to provide an interactive and efficient platform for managing users and improving practical preparation workflows.
 It includes a responsive frontend interface, reusable React components, and scalable project architecture.
 
 ---
@@ -26,12 +28,14 @@ It includes a responsive frontend interface, reusable React components, and scal
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React.js
 - Vite
 - JavaScript (ES6+)
 - CSS3
 
 ### Tools & Utilities
+
 - Git & GitHub
 - ESLint
 - npm
@@ -147,6 +151,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
+
 - GitHub: https://github.com/cyber7en
 
 ---
@@ -154,3 +159,16 @@ This project is licensed under the MIT License.
 ## ⭐ Support
 
 If you found this project useful, consider giving it a star on GitHub.
+======================================================================
+
+# Practical-Preparation-2025-2026
+
+This is preparation on national examination pratical for NESA that project it about CRUD operations
+
+>>>>>>> (Add README screenshots)
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
